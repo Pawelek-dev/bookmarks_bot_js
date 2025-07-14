@@ -1,0 +1,19 @@
+{
+  "name": "bookmarks_js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paweł Brzyś",
+  "license": "ISC",
+  "description": "Bookmarks napisany z Pythona na JavaScript",
+  "dependencies": {
+    "@discordjs/builders": "^1.11.2",
+    "@discordjs/rest": "^2.5.1",
+    "discord-api-types": "^0.38.16",
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.2.0",
+    "sqlite3": "^5.1.7"
+  }
+}
